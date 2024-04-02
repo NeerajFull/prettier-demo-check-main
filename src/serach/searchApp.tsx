@@ -13,7 +13,6 @@ export default function SearchApp() {
             <h3>This is to search something
                 Which is better than amazon search. 
                 {["s","t"].map((e) => {
-                    <h2>{e}</h2>
                 })}
             </h3>
 
